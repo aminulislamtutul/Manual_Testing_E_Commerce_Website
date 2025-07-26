@@ -40,3 +40,6 @@ These test cases are designed to verify that the application is operating as exp
 - Remark
 ## Test Report
 In this Reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
+
+<img width="804" height="218" alt="Screenshot 2025-07-26 132601" src="https://github.com/user-attachments/assets/e8fd021c-db1c-434f-95d7-d82f821448f4" />
+
