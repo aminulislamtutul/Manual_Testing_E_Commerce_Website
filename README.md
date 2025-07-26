@@ -1,4 +1,6 @@
-### **Project Overview**
+## What is Manual Testing?
+Manual testing is the process of manually testing software for defects. It requires a tester to play the role of an end user where by they use most of the application's features to ensure correct behavior.
+## Project Overview
 Dazzle is a modern, responsive e-commerce website designed to provide a seamless online shopping experience for users. The platform includes product browsing, user authentication, shopping cart functionality, order management, and a secure checkout process.
 ### **Features**
 - User registration and login
