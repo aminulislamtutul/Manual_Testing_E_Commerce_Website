@@ -46,7 +46,7 @@ In this Reports may include defect reports, test execution reports, test summary
 
 <img width="804" height="218" alt="Screenshot 2025-07-26 132601" src="https://github.com/user-attachments/assets/e8fd021c-db1c-434f-95d7-d82f821448f4" />
 
-## Bug report
+## Bug Report
 
 <img width="526" height="243" alt="Screenshot 2025-07-27 010212" src="https://github.com/user-attachments/assets/7c5b981d-e27b-4af9-8bc6-139708c5cc35" />
 
