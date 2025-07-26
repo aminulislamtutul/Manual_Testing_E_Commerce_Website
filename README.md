@@ -4,10 +4,12 @@ Dazzle is a modern, responsive e-commerce website designed to provide a seamless
 - User registration and login
 - Search functionality
 - Cart functionality
-- Pre order management
+- Pre order management 
+- Checkout
 - Header section
 - Body section
 - Footer section
+- GUI
 ## Table of Content
 - Test plan
 - Mind maps
