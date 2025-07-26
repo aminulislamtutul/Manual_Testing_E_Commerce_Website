@@ -17,6 +17,7 @@ Dazzle is a modern, responsive e-commerce website designed to provide a seamless
 - Bug report
 - Test metrics
 ## Mind Maps
+![Mind Maps](https://github.com/aminulislamtutul/Manual_Testing_E_Commerce_Website/blob/master/Others%20Picture/DAZZLE.png?raw=true)
 ## Test Cases
 These test cases are designed to verify that the application is operating as expected. Each test case should include the following information:
 - Test case Id
