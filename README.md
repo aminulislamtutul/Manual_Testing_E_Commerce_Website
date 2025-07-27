@@ -39,7 +39,7 @@ These test cases are designed to verify that the application is operating as exp
 - Final status
 - Remark
 
-<img width="936" height="313" alt="Screenshot 2025-07-27 005850" src="https://github.com/user-attachments/assets/a06a7daa-ee5a-4335-8fef-ef07017f2aa5" />
+<img width="909" height="304" alt="Screenshot 2025-07-27 231510" src="https://github.com/user-attachments/assets/b91373f9-1c80-4534-86bf-8aa04efbdbce" />
 
 ## Test Report
 In this Reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
