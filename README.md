@@ -1,23 +1,23 @@
 ## What is Manual Testing?
-Manual testing is the process of manually testing software for defects. It requires a tester to play the role of an end user where by they use most of the application's features to ensure correct behavior.
+Manual testing is the process of manually testing software for defects. It requires a tester to play the role of an end user, using most of the application's features to ensure correct behavior.
 ## Project Overview
 Dazzle is a modern, responsive e-commerce website designed to provide a seamless online shopping experience for users. The platform includes product browsing, user authentication, shopping cart functionality, order management, and a secure checkout process.
 ### **Features**
 - User registration and login
 - Search functionality
 - Cart functionality
-- Pre order management 
+- Pre-order management 
 - Checkout
 - Header section
 - Body section
 - Footer section
 - GUI
-## Table of Content
+## Table of Contents
 - Test plan
 - Mind maps
 - Test scenarios
 - Test case
-- Test summery report
+- Test summary report
 - Bug report
 - Test metrics
 ## Mind Maps
@@ -25,16 +25,16 @@ Dazzle is a modern, responsive e-commerce website designed to provide a seamless
 
 ## Test Cases
 These test cases are designed to verify that the application is operating as expected. Each test case should include the following information:
-- Test case Id
+- Test case ID
 - Module
 - Type of testing
 - Features
 - Test cases
-- EXpected result
+- Expected result
 - Actual result
 - Test date
 - Reproducing steps
-- Bugs screenshort
+- Bugs screenshot
 - Dev comments
 - Final status
 - Remark
@@ -42,7 +42,7 @@ These test cases are designed to verify that the application is operating as exp
 <img width="909" height="304" alt="Screenshot 2025-07-27 231510" src="https://github.com/user-attachments/assets/b91373f9-1c80-4534-86bf-8aa04efbdbce" />
 
 ## Test Report
-In this Reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
+These reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
 
 <img width="804" height="218" alt="Screenshot 2025-07-26 132601" src="https://github.com/user-attachments/assets/e8fd021c-db1c-434f-95d7-d82f821448f4" />
 
