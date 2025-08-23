@@ -1,3 +1,4 @@
+## **Manual Testing e-Commerce Website**
 ## Project Overview
 Dazzle is a modern, responsive e-commerce website designed to provide a seamless online shopping experience for users. The platform includes product browsing, user authentication, shopping cart functionality, order management, and a secure checkout process.
 ### **Features**
